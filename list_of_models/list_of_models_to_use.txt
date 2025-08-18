@@ -1,22 +1,27 @@
-Final List of 13 Models to use:
+Final List of 18 Models to use:
 
 Classical Methods:
-1.	Naïve Forecast
-2.	ARIMA
-3.	SARIMA
-4.	SARIMAX
-5.	Holt-Winters Exponential Smoothing
-6.	GARCH
+1.	Naïve Forecast ✅
+2.	ARIMA ✅
+3.	SARIMA ✅
+4.	SARIMAX ✅
+5.	Holt-Winters Exponential Smoothing ✅
+6.	GARCH ✅
+7.  Holt's Model ✅
+8.  SES - Simple Exponential Smoothing ✅
 
 Automated Tools/Quick Setup:
-7.	Facebook Prophet
+9.	Facebook Prophet ✅
 
 Machine Learning:
-8.	XGBoost (or LightGBM/CatBoost)
-9.	Random Forest
+10.	XGBoost ✅
+11. LightGBM ✅
+12. CatBoost ✅
+13.	Random Forest ✅
 
 Deep Learning:
-10.	LSTM or Hybrid CNN LSTM
-11.	GRU
-12.	Transformer/TFT
-13.	N-BEATS
+14.	LSTM ✅
+15.	GRU ✅
+16. Hybrid CNN LSTM ✅
+17.	Transformer/TFT ✅
+18.	N-BEATS ✅
